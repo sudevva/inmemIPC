@@ -1,0 +1,8 @@
+.libs
+.idea
+autom4te.cache
+build
+cmake-build-debug
+include
+modules
+kernel
